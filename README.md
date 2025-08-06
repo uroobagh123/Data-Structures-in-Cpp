@@ -1,6 +1,6 @@
 # Data Structures in C++
 
-This repository contains all my **lab tasks**, **assignments**, and **quizzes** from the *Data Structures* course, implemented in **C++**.
+This repository contains all my **lab tasks**, **assignments**, and **quizzes** from the Data Structures course, implemented in **C++**.
 
 ## 📂 Contents
 
